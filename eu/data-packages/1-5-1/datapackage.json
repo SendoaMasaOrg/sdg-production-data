@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Territorio",
@@ -40,12 +40,12 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

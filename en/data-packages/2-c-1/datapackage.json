@@ -44,25 +44,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "IX",
-                "PT",
+                "Index",
+                "Percentage",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "GeoCode",

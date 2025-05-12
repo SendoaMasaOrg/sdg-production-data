@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Producto",
@@ -44,25 +44,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "IX",
-                "PT",
+                "Aurkibidea",
+                "Ehunekoa",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "GeoCode",
@@ -72,7 +72,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

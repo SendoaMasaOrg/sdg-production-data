@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Umbral",
@@ -73,16 +73,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Ehunekoa",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Territorio",
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Value",
